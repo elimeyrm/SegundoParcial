@@ -1,0 +1,7 @@
+req:
+
+1 Gestion de usuarios
+2 GEstion de Florerias
+3 Control de pedidos
+4 Gestion de pedidos
+5 Gestion de catalogos
